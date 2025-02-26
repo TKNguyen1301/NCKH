@@ -1,0 +1,7 @@
+pip install --upgrade pymupdf
+pip install opencv-python numpy tensorflow
+pip install pypdf
+pip install paddleocr
+git clone https://github.com/PaddlePaddle/PaddleOCR
+pip install paddlepaddle-gpu
+pip install paddleocr
